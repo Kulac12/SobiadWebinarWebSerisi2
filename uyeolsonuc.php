@@ -138,8 +138,8 @@
                                 $mail->CharSet='UTF-8';
                             
                             
-                                $mail->Username      = 'bozuk.trenler6@gmail.com';                     //SMTP username
-                                $mail->Password      = 'Pansuman664';                               //SMTP password
+                                $mail->Username      = '';                     //SMTP username
+                                $mail->Password      = '';                               //SMTP password
                                 $mail->SMTPSecure    = 'tls';            //Enable implicit TLS encryption
                                 $mail->Port          = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
     
