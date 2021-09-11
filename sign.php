@@ -425,7 +425,7 @@
                                         aria-label="Default select example" name="etmail">
                                         <option value="@adanabtu.edu.tr">@adanabtu.edu.tr</option>
 
-                                        <option>@gmail.com</option>
+                                        <!--<option>@gmail.com</option>-->
 
                                         <option>@adiyaman.edu.tr</option>
 
